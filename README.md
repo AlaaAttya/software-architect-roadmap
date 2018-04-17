@@ -7,6 +7,9 @@ Hes's responsible for making high-level design decisions.
 The objective of this document is giving an overview about the skills required by software engineers to level up and become a software architect.
 Still there's no ideal skills required to be gained, but this is just a roadmap to be followed to highlight the main skills to be gained.
 
+There's no standard roadmap or specific methodology to follow to become an architect. 
+Being a good architect is getting achieved by applying and implementing more than reading.
+
 ![map](images/map.png)
 
 
