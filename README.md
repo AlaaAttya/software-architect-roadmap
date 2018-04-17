@@ -10,6 +10,8 @@ Still there's no ideal skills required to be gained, but this is just a roadmap 
 There's no standard roadmap or specific methodology to follow to become an architect. 
 Being a good architect is getting achieved by applying and implementing more than reading.
 
+Below is a broadway roadmap that you can follow to start being a software architect.
+
 ![map](images/map.png)
 
 
