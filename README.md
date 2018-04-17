@@ -1,4 +1,4 @@
-Software architect roadmap :male-construction-worker:
+Software architect roadmap 
 ==========================
 In general software architect is like the architect in real-life. 
 Hes's responsible for making high-level design decisions. 
