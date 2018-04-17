@@ -47,4 +47,7 @@ Enterprise architect is the very highly abstracted architect responsible for the
 
 ## Contribution :muscle:
 - This project is created by [Draw.io](https://draw.io/) so for contribution just download the [map.xml](files/map.xml) import it, edit it and update the exported images in `images/map.png`
-- If you want to discuss any ideas/suggestions just ping me on [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/AlaaAttya.svg?style=social&label=Follow%20%40AlaaAttya)](https://twitter.com/AlaaAttya) or [:email:](mailto:alaa.attya91@gmail.com)
+- If you want to discuss any ideas/suggestions just ping me on 
+[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=@AlaaAttya)](https://twitter.com/AlaaAttya)
+ or [:email:](mailto:alaa.attya91@gmail.com)
+ 
