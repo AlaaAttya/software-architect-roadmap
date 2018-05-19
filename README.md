@@ -12,7 +12,7 @@ Being a good architect is getting achieved by applying and implementing more tha
 
 Below is a broadway roadmap that you can follow to start being a software architect.
 
-![map](images/map.png)
+![map](images/map.jpg)
 
 
 Let's define the 3 categories of software architects
@@ -46,7 +46,7 @@ Enterprise architect is the very highly abstracted architect responsible for the
 - Raising the skills of the development team and maintaining their knowledge.
 
 ## Contribution :muscle:
-- This project is created by [Draw.io](https://draw.io/) so for contribution just download the [map.xml](files/map.xml) import it, edit it and update the exported images in `images/map.png`
+- This project is created by [Draw.io](https://draw.io/) so for contribution just download the [map.xml](files/map.xml) import it, edit it and update the exported images in `images/map.jpg`
 - If you want to discuss any ideas/suggestions just ping me on 
 [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=@AlaaAttya)](https://twitter.com/AlaaAttya)
  or [:email:](mailto:alaa.attya91@gmail.com)
